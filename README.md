@@ -64,4 +64,16 @@ git clone https://github.com/lisssassaa/Devops_lab6.git
 cp -r ~/devops5_nginx_vhosts/* .
 
 ```
+Добавляем .github/workflows/devops_course_pipeline.yml
+
+<img width="458" height="284" alt="image" src="https://github.com/user-attachments/assets/c9e605e1-1cd7-4b58-9fea-dcf48398255a" />
+
+.github/workflows/lint.yml
+
+<img width="425" height="289" alt="image" src="https://github.com/user-attachments/assets/d3f806c1-57af-4709-b3b6-aeb8509b2a4c" />
+
+Проверяем 
+
+<img width="1040" height="370" alt="image" src="https://github.com/user-attachments/assets/462bfa62-f889-46be-83c8-4e40bcff1fcc" />
+
 
