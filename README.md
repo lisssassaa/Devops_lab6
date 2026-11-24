@@ -56,3 +56,12 @@ roles/nginx-vhosts/templates/site.conf.j2
 
 ## ЧАСТЬ 2
 
+Создаем репозиторий и переносим файлы командами 
+
+```
+
+git clone https://github.com/lisssassaa/Devops_lab6.git
+cp -r ~/devops5_nginx_vhosts/* .
+
+```
+
